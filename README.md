@@ -6,6 +6,13 @@ I build practical software for the people who use it, from customer-facing appli
 
 I'm an Application Engineer at DSC. My experience includes wire-harness schematic and formboard tools, Salesforce onboarding and integrations, custom objects, SQL servers, and application delivery through Azure DevOps.
 
+## Featured project
+
+**Fieldnote · Quoting demo**  
+An original demonstration of a business quoting workflow, using fictional data and browser-local storage.
+
+[Explore the live demo](https://tonybernazard.github.io/fieldnote-quoting-demo/) · [View the source](https://github.com/tonybernazard/fieldnote-quoting-demo)
+
 ## What I work on
 
 - **Business applications:** tools that support day-to-day operations and make complex workflows easier to use.
