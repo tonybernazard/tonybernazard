@@ -6,12 +6,17 @@ I build practical software for the people who use it, from customer-facing appli
 
 I'm an Application Engineer at DSC. My experience includes wire-harness schematic and formboard tools, Salesforce onboarding and integrations, custom objects, SQL servers, and application delivery through Azure DevOps.
 
-## Featured project
+## Featured projects
 
 **Fieldnote · Quoting demo**  
 An original demonstration of a business quoting workflow, using fictional data and browser-local storage.
 
 [Explore the live demo](https://tonybernazard.github.io/fieldnote-quoting-demo/) · [View the source](https://github.com/tonybernazard/fieldnote-quoting-demo)
+
+**Dispatch · Expense workflow demo**  
+An original MUI expense-workflow demo with fictional data and an included runnable SQLite API. The public preview is a browser demo, with no live banking, payments or SSO connections.
+
+[Explore the browser demo](https://tonybernazard.github.io/dispatch-expense-demo/) · [View the source and SQLite API](https://github.com/tonybernazard/dispatch-expense-demo)
 
 ## What I work on
 
